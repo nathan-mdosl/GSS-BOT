@@ -1,0 +1,257 @@
+HotelID,HotelName
+3777,CIS Columbus Airport
+3778,CIS HorseheadsNY 9203
+3780,CIS SpringfieldOH 9205
+3845,Courtyard Anaheim Buena Park
+3842,Courtyard Atlanta Executive Park Emory
+3843,Courtyard Augusta
+3852,Courtyard Charlotte Arrowood
+3853,Courtyard Chicago Naperville
+3854,Courtyard Cincinnati Blue Ash
+3855,Courtyard Costa Mesa South Coast Metro
+3841,Courtyard Dallas Arlington
+3856,Courtyard Dallas Las Colinas
+3858,Courtyard Detroit Dearborn
+3859,Courtyard Detroit Troy
+3860,Courtyard Detroit Warren
+3863,Courtyard Fremont Silicon Valley
+3864,Courtyard Hartford Windsor
+3865,Courtyard Herndon Reston
+3868,Courtyard Melbourne West
+3869,Courtyard Memphis East Park Avenue
+3870,Courtyard Miami Airport
+3871,Courtyard Miami Airport West Doral Area
+3873,Courtyard Nashville Brentwood
+3876,Courtyard Philadelphia Valley Forge King of Prussia
+3877,Courtyard Phoenix Airport
+3878,Courtyard Pleasanton
+3879,Courtyard Raleigh Midtown
+3881,Courtyard Richmond West
+3882,Courtyard Rockville
+3880,Courtyard Sacramento Rancho Cordova
+3887,Courtyard San Francisco Airport
+3888,Courtyard Savannah Midtown
+3889,Courtyard Tallahassee Capital
+3890,Courtyard Tarrytown Greenburgh
+3975,CS RochesterNY 9201
+3840,CY Amarillo WestTX 9206
+3846,CY Atlantic CityNJ 9645
+3844,CY BloomingdaleIL 9207
+3857,CY Dayton NorthOH 9208
+3861,CY FlintMI 9209
+3862,CY FolsomCA 9210
+3847,CY Fort Lauderdale Cypress CreekFL 9638
+3335,CY GreshamOR 9956
+3849,CY KeeneNH 9807
+3866,CY Las Vegas SouthNV 9211
+3867,CY LewisvilleTX 9212
+3850,CY Manchester AirportNH 9806
+3874,CY MontgomeryvillePA 9214
+3851,CY MontvaleNJ 9615
+3872,CY Morgan HillCA 9213
+3875,CY PalmdaleCA 9215
+4369,CY Phoenix Mesa AirportAZ 9952
+3892,CY Potomac MillsVA 9220
+3884,CY Roseville GalleriaCA 9217
+3883,CY RosevilleCA 9216
+3885,CY SalinasCA 9218
+3891,CY TopekaKS 9219
+3789,FFI ClairsvilleOH 9221
+3792,FFI DeptfordNJ 9223
+3784,FFI El PasoTX 9907
+3793,FFI EriePA 9224
+4808,FFI HomesteadFL 9955
+3794,FFI Joliet SouthIL 9225
+3795,FFI Las Vegas SouthNV 9226
+3796,FFI Philadelphia AirportPA 9227
+3797,FFI RosevilleCA 9228
+4368,FFI RoswellNM 9950
+3798,FFI Scranton PA 9229
+3799,FFI TracyCA 9230
+3791,FFI Twentynine PalmsCA 5650
+3800,FFI VacavilleCA 9231
+3801,FFI VisaliaCA 9232
+3802,FFI Warren NilesOH 9233
+3790,FFI WoodlandsTX 9222
+3970,FP Fort Walton BeachFL 9626
+3971,FP PleasantonCA 9288
+4515,H2 LongmontCO 9954
+3817,HAMP BinghamtonNY 9242
+3809,HAMP ChandlerAZ 9235
+3810,HAMP ColumbiaMD 9646
+3811,HAMP FairbornOH 9236
+3812,HAMP Fairview HeightsIL 9237
+3813,HAMP ForsythIL 9238
+3814,HAMP Fort Lauderdale Cypress CreekFL 9239
+3805,HAMP Fort Wayne NorthIN 9234
+3815,HAMP Houston Hobby AirportTX 9240
+3820,HAMP IslandiaNY 9624
+3816,HAMP JacksonMI 9241
+3806,HAMP LancasterCA 9903
+3818,HAMP LaredoTX 9243
+3819,HAMP Lexington AirportKY 9244
+3821,HAMP Louisville DowntownKY 9608
+3822,HAMP Memphis Walnut GroveTN 9245
+3823,HAMP Naples CentralFL 9637
+3808,HAMP PalmdaleCA 9906
+3824,HAMP Rancho CordovaCA 9246
+3825,HAMP SedonaAZ 9247
+3826,HAMP TracyCA 9248
+3961,HH AddisonTX 9640
+3960,HH BelmontCA 9601
+3963,HH El SegundoCA 9603
+3962,HH Las ColinasTX 9625
+3964,HH Mount LaurelNJ 9634
+3782,HIE Irondequoit RochesterNY 9249
+3783,HIE Las Vegas SouthNV 9250
+3828,HWS ArlingtonTX 9251
+3832,HWS ChandlerAZ 9252
+3833,HWS Corpus ChristiTX 9253
+3834,HWS DublinOH 9254
+3835,HWS EriePA 9255
+3836,HWS Grapevine AirportTX 9256
+3829,HWS LancasterCA 9902
+3830,HWS Manchester AirportNH 9802
+3831,HWS PortsmouthNH 9803
+3837,HWS Rochester HenriettaNY 9257
+3838,HWS RosevilleCA 9258
+3839,HWS WarwickRI 9259
+4569,LQ Atlanta AlpharettaGA 3626
+4571,LQ Atlanta Ballpark GalleriaGA 3607
+4570,LQ Atlanta ConyersGA 3614
+4572,LQ Atlanta Perimeter MedicalGA 3605
+4573,LQ Austin AirportTX 3588
+4577,LQ Austin Capitol DowntownTX 3597
+4574,LQ Austin Near The DomainTX 3890
+4576,LQ Austin SouthwestTX 3587
+4579,LQ Boston SomervilleMA 3616
+4685,LQ BostonAndoverMA 3632
+4581,LQ Charleston RiverviewSC 3631
+4582,LQ Chicago DowntownIL 3617
+4583,LQ ClevelandAirport NorthOH 3643
+4585,LQ Colorado Springs South APCO 3557
+4592,LQ Denver Airport DIACO 3556
+4595,LQ Denver BoulderLouisvilleCO 3553
+4594,LQ Denver GoldenCO 3550
+4597,LQ Denver Southwest LakewoodCO 3558
+4599,LQ Denver WestminsterCO 3551
+4600,LQ Detroit UticaMI 3615
+4589,LQ DFW Airport SouthTX 3593
+4604,LQ FlagstaffAZ 3526
+4608,LQ FremontCA 3533
+4612,LQ Grand JunctionCO 3554
+4614,LQ Jacksonville Butler BoulevardFL 3565
+4615,LQ Las Vegas Summerlin TechNV 3606
+4620,LQ Melbourne VieraFL 3571
+4621,LQ Mesa Superstition SpringsAZ 3530
+4629,LQ Myrtle Beach Broadway AreaSC 3611
+4628,LQ Myrtle Beach N Kings HwySC 3629
+4630,LQ Naples DowntownFL 3579
+4632,LQ Nashville SouthTN 3608
+4633,LQ New Orleans AirportLA 3624
+4634,LQ New Orleans DowntownLA 3627
+4636,LQ New Orleans West Bank GretnaLA 3635
+4638,LQ Oklahoma City NormanOK 3613
+4641,LQ Orlando Airport NorthFL 3559
+4642,LQ Orlando Airport WestFL 3562
+4644,LQ Orlando Lake MaryFL 3570
+4645,LQ Orlando UCFFL 3560
+4646,LQ Panama CityFL 3566
+4647,LQ Phoenix ChandlerAZ 3532
+4648,LQ Phoenix Mesa WestAZ 3529
+4650,LQ Phoenix ScottsdaleAZ 3528
+4652,LQ Plantation At SW 6th StreetFL 3580
+4653,LQ PortlandME 3618
+4654,LQ PuebloCO 3555
+4655,LQ Raleigh CaryNC 3586
+4656,LQ Raleigh CrabtreeNC 3585
+4658,LQ Raleigh Durham AirportNC 3584
+4657,LQ Raleigh Durham SouthpointNC 3583
+4601,LQ Raleigh Durham University Area Chapel HillNC 3582
+4664,LQ San Antonio DowntownTX 3604
+4665,LQ San Antonio Market SquareTX 3594
+4666,LQ San Antonio RiverwalkTX 3591
+4670,LQ Santa FeNM 3609
+4672,LQ Shreveport AirportLA 3612
+4673,LQ StamfordCT 3619
+4676,LQ Sunrise Sawgrass MillsFL 3572
+4675,LQ SunriseFL 3577
+4677,LQ TacomaSeattleWA 3623
+4678,LQ Tampa Brandon Regency ParkFL 3564
+4680,LQ Tucson AirportAZ 3527
+4681,LQ VenturaCA 3537
+4682,LQ Virgina BeachVA 3620
+4684,LQ West Palm Beach AirportFL 3581
+3803,Miami Airport Marriott
+3914,Residence Inn by Marriott Miami Airport
+3903,RI AddisonTX 9616
+3916,RI Altamonte SpringsFL 9644
+3896,RI ArlingtonTX 9623
+3897,RI Atlanta DowntownGA 9621
+3893,RI Atlanta DuluthGA 9260
+3923,RI BellevueWA 9604
+3899,RI BinghamtonNY 9628
+3894,RI Bloomingdale IL 9261
+3925,RI BothellWA 9613
+3895,RI Buffalo Galleria MallNY 9262
+3929,RI ChandlerAZ 9263
+3930,RI Cherry HillNJ 9612
+3902,RI Chicago O'HareIL 9622
+3904,RI Denver DowntownCO 9618
+3905,RI Denver Tech CenterCO 9614
+3931,RI DeptfordNJ 9264
+3949,RI Des Moines WestIA 9282
+3932,RI El PasoTX 9265
+3933,RI ExtonPA 9266
+3934,RI FlintMI 9267
+3935,RI FolsomCA 9268
+3900,RI FoxboroughMA 9801
+3908,RI FremontCA 9607
+3909,RI GaithersburgMD 9617
+3910,RI Harrisburg HersheyPA 9630
+3936,RI Houston NorthwestTX 9269
+3937,RI Kansas City IndependenceMO 9270
+3938,RI Las Vegas SouthNV 9271
+3912,RI Lexington NorthKY 9627
+3906,RI LivoniaMI 9619
+3913,RI Louisville EastKY 9633
+3924,RI LynnwoodWA 9611
+3939,RI MontgomeryvillePA 9272
+3940,RI Morgan HillCA 9273
+3941,RI Oklahoma City SouthOK 9274
+3915,RI Ontario AirportCA 9636
+3942,RI PalmdaleCA 9275
+3898,RI Peachtree CornersGA 9639
+3917,RI Portland ScarboroughME 9620
+3952,RI Potomac MillsVA 9285
+3918,RI Richmond NWVA 9641
+3919,RI Richmond West EndVA 9635
+3943,RI RosevilleCA 9276
+3920,RI Saddle RiverNJ 9610
+3944,RI SalemOR 9277
+3945,RI SalinasCA 9278
+3921,RI San Jose CampbellCA 9602
+3922,RI San Jose SouthCA 9606
+3946,RI ScrantonPA 9279
+3927,RI SheltonCT 9632
+3947,RI The WoodlandsTX 9280
+3907,RI TroyMI 9629
+3926,RI TukwilaWA 9609
+3948,RI VacavilleCA 9281
+3950,RI West Palm BeachFL 9283
+3951,RI West SpringfieldMA 9284
+3911,RI WindsorCT 9631
+3928,RI WorcesterMA 9804
+3972,SHER RockvilleMD 9643
+3973,SHER San Jose MilpitasCA 9289
+3956,SHS ChandlerAZ 9286
+4370,SHS Colorado Springs NorthCO 9953
+3954,SHS El PasoTX 9901
+3955,SHS Manchester AirportNH 9808
+3958,TPS HorshamPA 9642
+3957,TPS Manchester AirportNH 9809
+4364,TPS RoswellNM 9951
+3959,TPS SpringfieldVA 9287
+3101,TRU Orlando Convention CenterFL 9940
+3974,WI Governor MorristownNJ 9605
+4611,WIN Galveston East BeachTX 3595

@@ -1,0 +1,2 @@
+1. open cmd in your folder and then run "pip install -r requirements.txt" (only have to do this once)
+2. once done, open a new cmd in your folder and run "python kms.py"
